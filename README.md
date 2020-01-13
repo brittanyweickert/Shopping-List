@@ -1,3 +1,1 @@
-# Shopping List App Challenge
-
-This repo contains starter files for the *Shopping List App* challenge.
+Shopping List app that allows user to add, remove and check off items.
